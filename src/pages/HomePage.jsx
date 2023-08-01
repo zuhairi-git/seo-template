@@ -8,7 +8,7 @@ export const HomePage = () => {
         title="SEO | Home Page"
         description="Professional Product Designer"
         type="Webpage"
-        image="./logo512.png"
+        image="./img/covers/default-image.jpg"
         name="Ali"
       />
       <h1>Home Page</h1>
