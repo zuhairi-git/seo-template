@@ -7,7 +7,7 @@ export const AboutPage = () => {
       <Seo
         title="SEO | About Page"
         description="Professional Product Designer"
-        image="./img/covers/portfolio-default-image.jpg"
+        image="./astroai.png"
         type="Webpage"
         name="Ali"
       />
